@@ -1,0 +1,1 @@
+{"name": "module-catalog-mcp", "version": "0.1.0", "description": "MCP Server for module search and recommendation", "type": "tool", "language": "typescript", "category": "infrastructure", "maintainers": [{"name": "Modsynth Team"}]}
